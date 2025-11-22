@@ -1,0 +1,13 @@
+# Relatório de Marketing — 2025-10-30
+
+## Canais e métricas (últimos 30 dias)
+- LinkedIn: 15 posts, 38.5k impressões, 3.1% CTR, 412 cliques, 128 leads
+- Instagram: 9 posts, 21.3k impressões, 1.8% CTR, 113 cliques, 27 leads
+- Newsletter: 2 envios, 9.4k aberturas (28%), 3.9% CTR, 84 cliques, 19 leads
+- Webinars: 1 evento, 142 inscritos, 97 compareceram, 23 leads
+- Paid Ads (LinkedIn): R$ 5.500 investidos, 1.9% CTR, CPC médio R$ 7,12, 39 leads
+
+## Observações
+- Conteúdos técnicos sobre IA geraram maior engajamento no LinkedIn.
+- Picos de tráfego ocorreram nos dias de webinars e no post "Guia prático de multiagentes com CrewAI".
+- Lead magnet mais baixado: "Checklist de Adoção de IA em 30 dias".

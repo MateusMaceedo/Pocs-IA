@@ -1,0 +1,8 @@
+deal,stage,amount_brl,probability,owner
+Oportunidade A,Descoberta,120000,0.4,Ana
+Oportunidade B,Proposta,250000,0.6,Bruno
+Oportunidade C,Negociação,180000,0.75,Carla
+Oportunidade D,Fechamento,90000,0.9,Daniel
+Oportunidade E,Proposta,150000,0.55,Ana
+Oportunidade F,Descoberta,200000,0.35,Carla
+Oportunidade G,Negociação,300000,0.7,Bruno
